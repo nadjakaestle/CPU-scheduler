@@ -1,2 +1,2 @@
 
-implementation of scheduling process FCFS, SJF, and RR ( without preemption).
+operating system's project to implement an FCFS, SJF, and RR scheduling process.
